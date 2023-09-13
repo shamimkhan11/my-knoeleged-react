@@ -7,7 +7,9 @@
       "author_img": "https://i.ibb.co/BrfVvnV/player-1.png",
       "posted_date": "2023-09-13",
       "reading_time": 30,
-      "hashtags": ["fiction", "bestseller"]
+      "hashtags": ["fiction", 
+      
+      "bestseller"]
     },
     {
       "id": "2",
@@ -39,6 +41,7 @@
       "reading_time": 60,
       "hashtags": ["mystery", "thriller"]
     },
+
     {
       "id": "5",
       "cover": "https://i.ibb.co/7VqPqY6/top-view-mustard-copybook-around-white-flowers-dark.jpg",
@@ -50,5 +53,5 @@
       "hashtags": ["science fiction", "dystopian"]
       
     }
-  ]
+    ]
   

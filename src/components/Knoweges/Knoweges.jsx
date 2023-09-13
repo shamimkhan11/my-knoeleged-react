@@ -1,10 +1,11 @@
-
+import pro from '../../assets/images/profile.png'
 
 const Knoweges = () => {
     return (
-        <div>
+        <header className='flex justify-between p-4 items-center mx-4 border-b-2'>
             <h1 className='text-4xl font-bold'>knoweges cafe</h1>
-        </div>
+            <img src={pro} alt="" />
+        </header>
     );
 };
 

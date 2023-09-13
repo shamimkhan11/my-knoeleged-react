@@ -1,0 +1,54 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/7VqPqY6/top-view-mustard-copybook-around-white-flowers-dark.jpg",
+      "title": "Book Title 1",
+      "author": "Author Name 1",
+      "author_img": "https://i.ibb.co/BrfVvnV/player-1.png",
+      "posted_date": "2023-09-13",
+      "reading_time": 30,
+      "hashtags": ["fiction", "bestseller"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/7VqPqY6/top-view-mustard-copybook-around-white-flowers-dark.jpg",
+      "title": "Book Title 2",
+      "author": "Author Name 2",
+      "author_img": "https://i.ibb.co/BrfVvnV/player-1.png",
+      "posted_date": "2023-09-14",
+      "reading_time": 45,
+      "hashtags": ["fantasy", "adventure"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/7VqPqY6/top-view-mustard-copybook-around-white-flowers-dark.jpg",
+      "title": "Book Title 3",
+      "author": "Author Name 3",
+      "author_img": "https://i.ibb.co/BrfVvnV/player-1.png",
+      "posted_date": "2023-09-15",
+      "reading_time": 20,
+      "hashtags": ["romance", "contemporary"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/7VqPqY6/top-view-mustard-copybook-around-white-flowers-dark.jpg",
+      "title": "Book Title 4",
+      "author": "Author Name 4",
+      "author_img": "https://i.ibb.co/BrfVvnV/player-1.png",
+      "posted_date": "2023-09-16",
+      "reading_time": 60,
+      "hashtags": ["mystery", "thriller"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/7VqPqY6/top-view-mustard-copybook-around-white-flowers-dark.jpg",
+      "title": "Book Title 5",
+      "author": "Author Name 5",
+      "author_img": "https://i.ibb.co/BrfVvnV/player-1.png",
+      "posted_date": "2023-09-17",
+      "reading_time": 40,
+      "hashtags": ["science fiction", "dystopian"]
+      
+    }
+  ]
+  

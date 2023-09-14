@@ -1,6 +1,6 @@
 [
     {
-      "id": "1",
+      "id": 1,
       "cover": "https://i.ibb.co/7VqPqY6/top-view-mustard-copybook-around-white-flowers-dark.jpg",
       "title": "Book Title 1",
       "author": "Author Name 1",
@@ -12,7 +12,7 @@
       "bestseller"]
     },
     {
-      "id": "2",
+      "id": 2,
       "cover": "https://i.ibb.co/7VqPqY6/top-view-mustard-copybook-around-white-flowers-dark.jpg",
       "title": "Book Title 2",
       "author": "Author Name 2",
@@ -22,7 +22,7 @@
       "hashtags": ["fantasy", "adventure"]
     },
     {
-      "id": "3",
+      "id": 3,
       "cover": "https://i.ibb.co/7VqPqY6/top-view-mustard-copybook-around-white-flowers-dark.jpg",
       "title": "Book Title 3",
       "author": "Author Name 3",
@@ -32,7 +32,7 @@
       "hashtags": ["romance", "contemporary"]
     },
     {
-      "id": "4",
+      "id": 4,
       "cover": "https://i.ibb.co/7VqPqY6/top-view-mustard-copybook-around-white-flowers-dark.jpg",
       "title": "Book Title 4",
       "author": "Author Name 4",
@@ -43,7 +43,7 @@
     },
 
     {
-      "id": "5",
+      "id": 5,
       "cover": "https://i.ibb.co/7VqPqY6/top-view-mustard-copybook-around-white-flowers-dark.jpg",
       "title": "Book Title 5",
       "author": "Author Name 5",
